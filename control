@@ -1,0 +1,9 @@
+Package: com.dylanduff.betterhud
+Name: BetterHUD
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: DylanDuff
+Author: DylanDuff
+Section: Tweaks
